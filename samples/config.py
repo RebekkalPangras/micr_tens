@@ -10,7 +10,7 @@ from pycocotools import mask as maskUtils
 
 
 # Root directory of the project
-ROOT_DIR = "/home/rebekkal/my_project_dir/MICR_MaskRCNN_Segmentation"
+ROOT_DIR = "/content/micr_tens"
 
 # Import Mask RCNN
 sys.path.append(ROOT_DIR)  # To find local version of the library
